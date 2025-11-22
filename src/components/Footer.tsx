@@ -58,6 +58,9 @@ export default function Footer() {
             <Link href="/about" className="text-gray-400 hover:text-white transition">
               Sobre Mí
             </Link>
+            <Link href="/contact" className="text-gray-400 hover:text-white transition">
+              Contacto
+            </Link>
           </nav>
         </div>
       </div>
