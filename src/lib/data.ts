@@ -33,7 +33,7 @@ export const projects: Project[] = [
 ];
 
 export const personalInfo = {
-  name: 'Brandon',
+  name: 'Arias Brandon',
   title: 'Full Stack Developer',
   description: 'Desarrollador apasionado por crear experiencias web excepcionales',
   email: 'brandon12arias@gmail.com',
